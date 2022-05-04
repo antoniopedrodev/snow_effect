@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    overflow: hidden;
+}
+#snow {
+    width: 100%;
+    height: 100vh;
+    background-image: url('../media/backgroundhouse.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
